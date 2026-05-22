@@ -12,6 +12,7 @@ import { useDiagnosaStore } from '@/store/diagnosaStore';
 import { runFormSkinDiagnosa, runFormHairDiagnosa } from '@/lib/mockAi';
 import type { SkinFormAnswers, HairFormAnswers } from '@/types';
 import { ArrowLeft, ArrowRight, Sparkles } from 'lucide-react';
+import { cn } from '@/lib/utils';
 
 function SkinFormFlow() {
   const navigate = useNavigate();
@@ -203,7 +204,7 @@ function HairFormFlow() {
 
 function FormDiagnosaInner() {
   const onboarding = useUserStore((s) => s.onboarding)!;
-  const isHair = onboarding.scope === 'hair';
+  const [mode, setMode] = useState<'skin' | 'hair'>(onboarding.scope === 'hair' ? 'hair' : 'skin');
 
   return (
     <>
@@ -213,8 +214,32 @@ function FormDiagnosaInner() {
           <Link to="/diagnosa" className="inline-flex items-center gap-1 text-sm text-ink/60 hover:text-teal-deep mb-6">
             <ArrowLeft className="h-4 w-4" /> Pilih metode lain
           </Link>
+
+          <div className="flex justify-center mb-8">
+            <div className="inline-flex p-1 rounded-xl bg-white border border-border">
+              <button
+                onClick={() => setMode('skin')}
+                className={cn(
+                  'px-6 py-2.5 rounded-lg text-sm font-medium transition-all',
+                  mode === 'skin' ? 'bg-teal-deep text-cream shadow-sm' : 'text-ink/60 hover:text-teal-deep'
+                )}
+              >
+                Diagnosa Kulit
+              </button>
+              <button
+                onClick={() => setMode('hair')}
+                className={cn(
+                  'px-6 py-2.5 rounded-lg text-sm font-medium transition-all',
+                  mode === 'hair' ? 'bg-teal-deep text-cream shadow-sm' : 'text-ink/60 hover:text-teal-deep'
+                )}
+              >
+                Diagnosa Rambut
+              </button>
+            </div>
+          </div>
+
           <div className="flex justify-center">
-            {isHair ? <HairFormFlow /> : <SkinFormFlow />}
+            {mode === 'hair' ? <HairFormFlow key="hair" /> : <SkinFormFlow key="skin" />}
           </div>
         </Container>
       </main>

@@ -1,0 +1,7256 @@
+[
+  {
+    "name": "1,2-Hexanediol",
+    "functions": [
+      "Solvent",
+      "Preservative Booster"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "2,3-Butanediol",
+    "functions": [
+      "Humectant",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "2-Aminobutanol",
+    "functions": [
+      "pH Adjuster"
+    ],
+    "warnings": [
+      "Irritant"
+    ],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "2-Methylpropanediol",
+    "functions": [
+      "Solvent",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "2-O-Ethyl Ascorbic Acid",
+    "functions": [
+      "Antioxidant",
+      "Brightening"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "3-O-Ethyl Ascorbic Acid",
+    "functions": [
+      "Antioxidant",
+      "Brightening"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Abies Sibirica Oil",
+    "functions": [
+      "Fragrance",
+      "Emollient"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Acacia Senegal Gum",
+    "functions": [
+      "Thickener",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Acetyl Dipeptide-1 Cetyl Ester",
+    "functions": [
+      "Cell-Communicating Ingredient",
+      "Soothing"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Acetyl Glucosamine",
+    "functions": [
+      "Skin Conditioning",
+      "Brightening"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Acetyl Glutamine",
+    "functions": [
+      "Skin Conditioning",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Acetyl Heptapeptide-4",
+    "functions": [
+      "Cell-Communicating Ingredient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Acetyl Hexapeptide-8",
+    "functions": [
+      "Cell-Communicating Ingredient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Acetyl Octapeptide-3",
+    "functions": [
+      "Cell-Communicating Ingredient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Acetyl Tetrapeptide-11",
+    "functions": [
+      "Skin Conditioning",
+      "Firming"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Acetyl Tetrapeptide-2",
+    "functions": [
+      "Cell-Communicating Ingredient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Acetyl Tetrapeptide-5",
+    "functions": [
+      "Cell-Communicating Ingredient",
+      "De-puffing"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Acetyl Tyrosine",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Acmella Oleracea Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Instant Smoothing"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Acrylates Copolymer",
+    "functions": [
+      "Film Forming"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "functions": [
+      "Thickener",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Acrylic Acid/Acrylamidomethyl Propane Sulfonic Acid Copolymer",
+    "functions": [
+      "Thickener",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Actinidia Chinensis (Kiwi) Fruit Extract",
+    "functions": [
+      "Emollient",
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Adenosine",
+    "functions": [
+      "Cell-Communicating Ingredient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Agar",
+    "functions": [
+      "Thickener"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Alanine",
+    "functions": [
+      "Humectant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Alanine/Histidine/Lysine Polypeptide Copper Hcl",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Alcohol",
+    "functions": [
+      "Solvent",
+      "Astringent"
+    ],
+    "warnings": [
+      "Drying",
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Alcohol Denat",
+    "functions": [
+      "Solvent",
+      "Astringent"
+    ],
+    "warnings": [
+      "Drying",
+      "Irritant"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Allantoin",
+    "functions": [
+      "Soothing",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Almond Oil/Polyglyceryl-10 Esters",
+    "functions": [
+      "Emulsifier",
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Aloe Barbadensis Flower Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Aloe Barbadensis Leaf Extract",
+    "functions": [
+      "Soothing",
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Alpha-Arbutin",
+    "functions": [
+      "Brightening"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Aluminum Chlorohydrate",
+    "functions": [
+      "Astringent"
+    ],
+    "warnings": [
+      "Controversial",
+      "Irritant"
+    ],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Aluminum/Magnesium Hydroxide Stearate",
+    "functions": [
+      "Thickener",
+      "Opacifying"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Amaranthus Caudatus Seed Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Amber Powder",
+    "functions": [
+      "Abrasive"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Aminomethyl Propanol",
+    "functions": [
+      "pH Adjuster"
+    ],
+    "warnings": [
+      "Irritant"
+    ],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Aminopropyl Ascorbyl Phosphate",
+    "functions": [
+      "Antioxidant",
+      "Brightening"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ammonium Acryloyldimethyltaurate/Beheneth-25 Methacrylate Crosspolymer",
+    "functions": [
+      "Thickener",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Ammonium Acryloyldimethyltaurate/Vp Copolymer",
+    "functions": [
+      "Thickener",
+      "Film Forming"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Amylopectin",
+    "functions": [
+      "Thickener"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Anemarrhena Asphodeloides Root Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Angelica Keiskei Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Fotosensitizing"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Anhydroxylitol",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Anthemis Nobilis Flower Extract",
+    "functions": [
+      "Soothing",
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Anthemis Nobilis Flower Oil",
+    "functions": [
+      "Fragrance",
+      "Soothing"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Aqua (Water)",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Arachidyl Alcohol",
+    "functions": [
+      "Thickener",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Arachidyl Glucoside",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Arachis Hypogaea (Peanut) Oil",
+    "functions": [
+      "Emollient",
+      "Occlusive"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Arbutin",
+    "functions": [
+      "Brightening"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Arginine",
+    "functions": [
+      "Humectant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Arisaema Amurense Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Artemisia Capillaris Leaf Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Artemisia Princeps Leaf Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Artemisia Vulgaris (Mugwort) Oil",
+    "functions": [
+      "Fragrance",
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ascorbic Acid",
+    "functions": [
+      "Antioxidant",
+      "Brightening"
+    ],
+    "warnings": [
+      "Irritant"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ascorbyl Glucoside",
+    "functions": [
+      "Antioxidant",
+      "Brightening"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ascorbyl Palmitate",
+    "functions": [
+      "Antioxidant",
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ascorbyl Tetraisopalmitate",
+    "functions": [
+      "Antioxidant",
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Asiatic Acid",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Asiaticoside",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Aspartic Acid",
+    "functions": [
+      "Humectant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Astragalus Membranaceus Root Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Avena Sativa (Oat) Kernel Extract",
+    "functions": [
+      "Soothing",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Avena Sativa (Oat) Kernel Flour",
+    "functions": [
+      "Abrasive",
+      "Thickener"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bacillus Ferment",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bacillus/Soybean Ferment Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bambusa Vulgaris Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Beeswax",
+    "functions": [
+      "Occlusive",
+      "Thickener"
+    ],
+    "warnings": [
+      "Comedogenic"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Behenyl Alcohol",
+    "functions": [
+      "Thickener",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bellis Perennis (Daisy) Flower Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bentonite",
+    "functions": [
+      "Thickener"
+    ],
+    "warnings": [
+      "Drying"
+    ],
+    "origin": "Natural",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Benzalkonium Chloride",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [
+      "Irritant",
+      "Allergen"
+    ],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Benzyl Glycol",
+    "functions": [
+      "Solvent",
+      "Preservative Booster"
+    ],
+    "warnings": [
+      "Irritant"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Beta-Carotene",
+    "functions": [
+      "Colorant",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Beta-Glucan",
+    "functions": [
+      "Humectant",
+      "Soothing"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Betaine",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Betaine Salicylate",
+    "functions": [
+      "Exfoliant"
+    ],
+    "warnings": [
+      "Exfoliating",
+      "Irritant"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bht",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Controversial"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bifida Ferment Filtrate",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bifida Ferment Lysate",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Biotin",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bis-Ethoxydiglycol Cyclohexane 1,4-Dicarboxylate",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine",
+    "functions": [
+      "UV Filter"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bis-PEG-12 Dimethicone",
+    "functions": [
+      "Emulsifier",
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bis-PEG-18 Methyl Ether Dimethyl Silane",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bisabolol",
+    "functions": [
+      "Soothing"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Borago Officinalis Seed Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Brassica Campestris (Rapeseed) Sterols",
+    "functions": [
+      "Emollient",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Brassica Campestris Sprout Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Brassica Oleracea Capitata (Cabbage) Leaf Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Brassica Oleracea Italica (Broccoli) Sprout Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Brassica Rapa (Turnip) Leaf Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Bromelain",
+    "functions": [
+      "Enzyme",
+      "Exfoliant"
+    ],
+    "warnings": [
+      "Exfoliating",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Buteth-3",
+    "functions": [
+      "Solvent",
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Butylene Glycol",
+    "functions": [
+      "Solvent",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "C12-13 Alketh-9",
+    "functions": [
+      "Emulsifier",
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "C12-13 Pareth-9",
+    "functions": [
+      "Emulsifier",
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "C12-14 Alketh-12",
+    "functions": [
+      "Emulsifier",
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "C12-14 Pareth-12",
+    "functions": [
+      "Emulsifier",
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "C12-15 Alkyl Lactate",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "C12-20 Alkyl Glucoside",
+    "functions": [
+      "Emulsifier",
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "C13-14 Isoparaffin",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "C14-22 Alcohols",
+    "functions": [
+      "Thickener",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Caesalpinia Spinosa Fruit Pod Extract",
+    "functions": [
+      "Thickener"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Caffeine",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Calcium Gluconate",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Calcium Pantothenate",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Calendula Officinalis Flower Extract",
+    "functions": [
+      "Soothing",
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Camellia Japonica Seed Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Camellia Sinensis (Green Tea) Leaf Extract",
+    "functions": [
+      "Antioxidant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Camellia Sinensis Leaf Powder",
+    "functions": [
+      "Abrasive"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Camellia Sinensis Leaf Water",
+    "functions": [
+      "Skin Conditioning",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Camellia Sinensis Seed Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Caprylhydroxamic Acid",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Caprylic/Capric Glycerides Polyglyceryl-10 Esters",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Caprylic/Capric Triglyceride",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [
+      "Comedogenic"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Capryloyl Salicylic Acid",
+    "functions": [
+      "Exfoliant"
+    ],
+    "warnings": [
+      "Exfoliating",
+      "Irritant"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Caprylyl Glycol",
+    "functions": [
+      "Humectant",
+      "Preservative Booster"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Caprylyl Methicone",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Caprylyl/Capryl Glucoside",
+    "functions": [
+      "Cleansing Agent",
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Capsicum Frutescens Fruit Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Caramel",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Carbomer",
+    "functions": [
+      "Thickener",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Carthamus Tinctorius (Safflower) Seed Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Castoryl Maleate",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cellulose",
+    "functions": [
+      "Thickener"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cellulose Gum",
+    "functions": [
+      "Thickener"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Centella Asiatica Extract",
+    "functions": [
+      "Soothing",
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Centella Asiatica Leaf Extract",
+    "functions": [
+      "Soothing",
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Centella Asiatica Leaf Vesicles",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Centella Asiatica Leaf Water",
+    "functions": [
+      "Skin Conditioning",
+      "Solvent"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Centella Asiatica Leaf/Stem Extract",
+    "functions": [
+      "Soothing",
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Centella Asiatica Root Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ceramide Ap",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ceramide As",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ceramide Eop",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ceramide Np",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ceramide Ns",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cetearyl Alcohol",
+    "functions": [
+      "Thickener",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cetearyl Dimethicone",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cetearyl Olivate",
+    "functions": [
+      "Emulsifier",
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cetyl Alcohol",
+    "functions": [
+      "Thickener",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cetyl Ethylhexanoate",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [
+      "Comedogenic"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cetyl Hydroxyethylcellulose",
+    "functions": [
+      "Thickener"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cetyl-Pg Hydroxyethyl Palmitamide",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Chamaecyparis Obtusa Water",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Chamomilla Recutita (Matricaria) Flower Extract",
+    "functions": [
+      "Soothing",
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Chamomilla Recutita (Matricaria) Flower Oil",
+    "functions": [
+      "Fragrance",
+      "Soothing"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Chlorella Vulgaris Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Chlorphenesin",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cholesterol",
+    "functions": [
+      "Skin Conditioning",
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 14720",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 15985 (Yellow 6)",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 16035 (Red 40)",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 16255",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 17200 (Red 33)",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 18965",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 19140",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 19140 (Yellow 5)",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 42090",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 61570 (Green 5)",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 77266 (Black 2)",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 77288 (Chromium Oxide Green)",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 77492 (Iron Oxides Yellow)",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ci 77891 (Titanium Dioxide)",
+    "functions": [
+      "Colorant",
+      "UV Filter"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Citral",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen",
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Citric Acid",
+    "functions": [
+      "pH Adjuster",
+      "Chelating Agent"
+    ],
+    "warnings": [
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Citronellol",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Citrullus Vulgaris (Watermelon) Fruit Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Citrus Aurantium Bergamia (Bergamot) Fruit Oil",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Fototoxic",
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Citrus Aurantium Bergamia (Bergamot) Leaf Extract",
+    "functions": [
+      "Fragrance",
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Fototoxic",
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Citrus Aurantium Dulcis (Orange) Peel Oil",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Fototoxic",
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Citrus Paradisi (Grapefruit) Peel Oil",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Fototoxic",
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Citrus Reticulata (Tangerine) Fruit Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Citrus Reticulata (Tangerine) Peel Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Allergen",
+      "Fototoxic"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Citrus Unshiu Peel Powder",
+    "functions": [
+      "Abrasive"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cladosiphon Okamuranus Extract",
+    "functions": [
+      "Thickener"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cocamide Dea",
+    "functions": [
+      "Foam Booster",
+      "Viscosity Modifier"
+    ],
+    "warnings": [
+      "Controversial"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cocamidopropyl Betaine",
+    "functions": [
+      "Cleansing Agent",
+      "Foam Booster"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Cocamidopropyl Dimethylamine",
+    "functions": [
+      "Hair Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Cocamidopropyl Hydroxysultaine",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Cocamidopropyl Pg-Dimonium Chloride Phosphate",
+    "functions": [
+      "Hair Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Coccinia Indica Fruit Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Coco-Betaine",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Coco-Caprylate/Caprate",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Coco-Glucoside",
+    "functions": [
+      "Cleansing Agent",
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Coffea Arabica (Coffee) Seed Extract",
+    "functions": [
+      "Antioxidant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Collagen Amino Acids",
+    "functions": [
+      "Humectant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Collagen Extract",
+    "functions": [
+      "Film Forming",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Collagen Water",
+    "functions": [
+      "Humectant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Copper Tripeptide-1",
+    "functions": [
+      "Cell-Communicating Ingredient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Coptis Japonica Root Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Corallina Officinalis Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Corchorus Olitorius Leaf Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Coriandrum Sativum (Coriander) Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Crocus Sativus Flower Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cryptomeria Japonica Leaf Extract",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cucumis Melo (Melon) Fruit Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Curcuma Longa (Turmeric) Root Extract",
+    "functions": [
+      "Antioxidant",
+      "Colorant"
+    ],
+    "warnings": [
+      "Staining"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cyanocobalamin",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cyclodextrin",
+    "functions": [
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cyclohexasiloxane",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cyclopentasiloxane",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cymbopogon Citratus Leaf Oil",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cynara Scolymus (Artichoke) Leaf Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cyperus Rotundus Root Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Cysteine",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Daucus Carota Sativa (Carrot) Root Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Decyl Glucoside",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Defatted Rice Bran",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Defatted Rice Bran Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Deoxyphytantriyl Palmitamide Mea",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Dextrin",
+    "functions": [
+      "Thickener"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Dibutyl Adipate",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Diethoxyethyl Succinate",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+    "functions": [
+      "UV Filter"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Diethylhexyl Syringylidenemalonate",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Diglucosyl Gallic Acid",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Diglycerin",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Dihydroxypropyl Arginine Hcl",
+    "functions": [
+      "Hair Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Diisopropyl Adipate",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Dimethicone",
+    "functions": [
+      "Emollient",
+      "Occlusive"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Dimethicone/Vinyl Dimethicone Crosspolymer",
+    "functions": [
+      "Thickener"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Dimethiconol",
+    "functions": [
+      "Emollient",
+      "Occlusive"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Dimethyl Isosorbide",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Dimethylmethoxy Chromanol",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Dimethylsilanol Hyaluronate",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Dioscorea Japonica Root Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Dipeptide Diaminobutyroyl Benzylamide Diacetate",
+    "functions": [
+      "Cell-Communicating Ingredient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Diphenyl Dimethicone",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Diphenylsiloxy Phenyl Trimethicone",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Dipotassium Glycyrrhizate",
+    "functions": [
+      "Soothing",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Dipropylene Glycol",
+    "functions": [
+      "Solvent",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Disiloxane",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Disodium Cocoyl Glutamate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Disodium Edta",
+    "functions": [
+      "Chelating Agent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Disodium Phosphate",
+    "functions": [
+      "pH Adjuster"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Ecklonia Cava Extract",
+    "functions": [
+      "Antioxidant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ectoin",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Elaeis Guineensis (Palm) Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [
+      "Comedogenic"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Eriobotrya Japonica Leaf Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Erythritol",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ethanol",
+    "functions": [
+      "Solvent",
+      "Astringent"
+    ],
+    "warnings": [
+      "Drying",
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ethyl Ascorbic Acid",
+    "functions": [
+      "Antioxidant",
+      "Brightening"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ethyl Ascorbyl Ether",
+    "functions": [
+      "Antioxidant",
+      "Brightening"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ethyl Hexanediol",
+    "functions": [
+      "Solvent",
+      "Preservative Booster"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ethyl Menthane Carboxamide",
+    "functions": [
+      "Cooling Agent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ethylhexyl Methoxycinnamate",
+    "functions": [
+      "UV Filter"
+    ],
+    "warnings": [
+      "Controversial",
+      "Allergen"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ethylhexyl Salicylate",
+    "functions": [
+      "UV Filter"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ethylhexylglycerin",
+    "functions": [
+      "Preservative Booster",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Eucalyptus Globulus Leaf Extract",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Farnesol",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ferulic Acid",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ficus Carica (Fig) Fruit Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Folic Acid",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Fomes Officinalis (Mushroom) Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Fructan",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Fructooligosaccharides",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Fructose",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Galactomyces Ferment Filtrate",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Gardenia Florida Fruit Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Gaultheria Procumbens (Wintergreen) Leaf Extract",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Gentiana Scabra Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Geraniol",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Gluconolactone",
+    "functions": [
+      "Exfoliant",
+      "Chelating Agent"
+    ],
+    "warnings": [
+      "Exfoliating",
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glucose",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glutamic Acid",
+    "functions": [
+      "Humectant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Glutathione",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Glycereth-25 Pca Isostearate",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glycereth-26",
+    "functions": [
+      "Humectant",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glycerin",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glyceryl Acrylate/Acrylic Acid Copolymer",
+    "functions": [
+      "Film Forming",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Glyceryl Caprylate",
+    "functions": [
+      "Emollient",
+      "Preservative Booster"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glyceryl Glucoside",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glyceryl Oleate",
+    "functions": [
+      "Emollient",
+      "Emulsifier"
+    ],
+    "warnings": [
+      "Comedogenic"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glyceryl Polymethacrylate",
+    "functions": [
+      "Film Forming"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glyceryl Stearate",
+    "functions": [
+      "Emulsifier",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [
+      "Comedogenic"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glyceryl Stearate Citrate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Glyceryl Stearate Se",
+    "functions": [
+      "Emulsifier",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [
+      "Comedogenic"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glycine",
+    "functions": [
+      "Humectant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Glycine Soja (Soybean) Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [
+      "Comedogenic",
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glycine Soja (Soybean) Seed Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glycine Soja (Soybean) Sterols",
+    "functions": [
+      "Emollient",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glycol Distearate",
+    "functions": [
+      "Opacifying",
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glycolic Acid",
+    "functions": [
+      "Exfoliant"
+    ],
+    "warnings": [
+      "Exfoliating",
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glycolipids",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glycoproteins",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Glycosphingolipids",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glycosyl Trehalose",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glycyrrhiza Glabra (Licorice) Root Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glycyrrhiza Uralensis (Licorice) Root Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Glyoxal",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [
+      "Irritant",
+      "Allergen"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Haematococcus Pluvialis Extract",
+    "functions": [
+      "Antioxidant",
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hamamelis Virginiana (Witch Hazel) Extract",
+    "functions": [
+      "Astringent",
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Drying",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hamamelis Virginiana (Witch Hazel) Leaf Extract",
+    "functions": [
+      "Astringent",
+      "Soothing"
+    ],
+    "warnings": [
+      "Drying",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hamamelis Virginiana Leaf Water",
+    "functions": [
+      "Astringent",
+      "Solvent"
+    ],
+    "warnings": [
+      "Drying",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hectorite",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Hedera Helix (Ivy) Leaf/Stem Extract",
+    "functions": [
+      "Soothing"
+    ],
+    "warnings": [
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Helianthus Annuus (Sunflower) Seed Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Helianthus Annuus (Sunflower) Sprout Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Helianthus Annuus Sprout Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hexadecene",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hexapeptide-11",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hexapeptide-12",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hexapeptide-2",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hexapeptide-67 Palmitate",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hexapeptide-9",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hexyl Cinnamal",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hexyl Laurate",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hibiscus Esculentus Fruit Extract",
+    "functions": [
+      "Film Forming"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil",
+    "functions": [
+      "Emollient",
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Staining"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Histidine",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Hordeum Vulgare Extract",
+    "functions": [
+      "Soothing"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Houttuynia Cordata Extract",
+    "functions": [
+      "Soothing",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hyaluronic Acid",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Hydrated Silica",
+    "functions": [
+      "Abrasive"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydrogenated Lecithin",
+    "functions": [
+      "Emollient",
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Hydrogenated Palm Acid",
+    "functions": [
+      "Consistency Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Hydrogenated Palm Glycerides Citrate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Hydrogenated Poly(C6-14 Olefin)",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydrogenated Polyisobutene",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydrogenated Starch Hydrolysate",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydrolyzed Algae Extract",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Hydrolyzed Algin",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Hydrolyzed Collagen",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Hydrolyzed Elastin",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Hydrolyzed Gardenia Florida Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydrolyzed Ginseng Saponins",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydrolyzed Glycosaminoglycans",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Hydrolyzed Hyaluronic Acid",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Hydrolyzed Malt Extract",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydrolyzed Rice Protein",
+    "functions": [
+      "Film Forming"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Hydrolyzed Sclerotium Gum",
+    "functions": [
+      "Rheology Modifier",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydrolyzed Silk",
+    "functions": [
+      "Film Forming",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Hydrolyzed Sodium Hyaluronate",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Hydrolyzed Soybean Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Hydrolyzed Sponge",
+    "functions": [
+      "Exfoliating"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydrolyzed Vegetable Protein",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Hydrolyzed Viola Tricolor Extract",
+    "functions": [
+      "Soothing"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydroxyacetophenone",
+    "functions": [
+      "Antioxidant",
+      "Preservative Booster"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+    "functions": [
+      "Rheology Modifier",
+      "Emulsion Stabilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Hydroxyethyl Urea",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydroxyethylcellulose",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydroxylated Lanolin",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydroxyphenyl Propamidobenzoic Acid",
+    "functions": [
+      "Soothing"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydroxypropyl Cyclodextrin",
+    "functions": [
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydroxypropyl Starch Phosphate",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Hydroxypropyl Tetrahydropyrantriol",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Hydroxypropyltrimonium Chloride",
+    "functions": [
+      "Hair Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Hydroxypropyltrimonium Hyaluronate",
+    "functions": [
+      "Humectant",
+      "Hair Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Hypochlorous Acid",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [
+      "Irritant"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Illicium Verum (Anise) Fruit Extract",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Imidazolidinyl Urea",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Iris Florentina Root Extract",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Isododecane",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Isoleucine",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Isopentyldiol",
+    "functions": [
+      "Humectant",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Jojoba Esters",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Juniperus Mexicana Oil",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Juniperus Virginiana Oil",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Kaolin",
+    "functions": [
+      "Absorbent"
+    ],
+    "warnings": [
+      "Drying"
+    ],
+    "origin": "Natural",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Kojic Acid",
+    "functions": [
+      "Skin Brightening"
+    ],
+    "warnings": [
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lactic Acid",
+    "functions": [
+      "pH Adjuster"
+    ],
+    "warnings": [
+      "Exfoliating",
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lactobacillus Ferment",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lactobacillus Ferment Lysate",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lactobacillus/Soymilk Ferment Filtrate",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lactobionic Acid",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [
+      "Exfoliating",
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lactococcus Ferment Lysate",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Laminaria Digitata Extract",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Laurdimonium Hydroxypropyl Hydrolyzed Wheat Protein",
+    "functions": [
+      "Hair Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Laureth-3",
+    "functions": [
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Laureth-7",
+    "functions": [
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lauric Acid",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [
+      "Comedogenic",
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lauryl Glucoside",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lauryl Hydroxysultaine",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Lavandula Angustifolia (Lavender) Oil",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lavandula Angustifolia Water",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lavandula Hybrida Oil",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lecithin",
+    "functions": [
+      "Emollient",
+      "Emulsifier"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Leucine",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Lilium Candidum Bulb Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lilium Tigrinum Bulb Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Limonene",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Linalool",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Linoleamidopropyl Pg-Dimonium Chloride Phosphate",
+    "functions": [
+      "Hair Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Lycium Chinense Fruit Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Lysine",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Lysine Hcl",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Macadamia Ternifolia Seed Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Madecassic Acid",
+    "functions": [
+      "Soothing"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Madecassoside",
+    "functions": [
+      "Soothing"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Magnesium Ascorbyl Phosphate",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Magnesium Chloride",
+    "functions": [
+      "Viscosity Control"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Magnesium Lactate",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Malic Acid",
+    "functions": [
+      "pH Adjuster"
+    ],
+    "warnings": [
+      "Exfoliating",
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Malt Extract",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Maltodextrin",
+    "functions": [
+      "Film Forming"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Maltooligosyl Glucoside",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Maltose",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Malus Domestica Fruit Cell Culture Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Malus Domestica Fruit Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Mandelic Acid",
+    "functions": [
+      "Exfoliant"
+    ],
+    "warnings": [
+      "Exfoliating",
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Mangifera Indica (Mango) Fruit Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Mannitol",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Maris Aqua (Sea Water)",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [
+      "Drying"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Mel (Honey) Extract",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Melaleuca Alternifolia (Tea Tree) Leaf Extract",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "warnings": [
+      "Allergen",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+    "functions": [
+      "Fragrance",
+      "Antimicrobial"
+    ],
+    "warnings": [
+      "Allergen",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Melaleuca Alternifolia (Tea Tree) Leaf Water",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [
+      "Allergen",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Melanin",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Melia Azadirachta Flower Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Melia Azadirachta Leaf Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Melissa Officinalis Leaf Oil",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Mentha Piperita (Peppermint) Oil",
+    "functions": [
+      "Fragrance",
+      "Cooling"
+    ],
+    "warnings": [
+      "Allergen",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Mentha Viridis (Spearmint) Extract",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Menthyl Lactate",
+    "functions": [
+      "Cooling Agent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Methionine",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Methoxy PEG-114/Poly(Epsilon-Caprolactone)",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Methyl Diisopropyl Propionamide",
+    "functions": [
+      "Cooling Agent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Methyl Gluceth-10",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Methyl Gluceth-20",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Methyl Glucose Sesquistearate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Methyl Trimethicone",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Methylchloroisothiazolinone",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [
+      "Allergen",
+      "Irritant"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Methylisothiazolinone",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [
+      "Allergen",
+      "Irritant"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Methylpropanediol",
+    "functions": [
+      "Solvent",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Mica",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Microcrystalline Cellulose",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Milk Protein Extract",
+    "functions": [
+      "Film Forming"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Morinda Citrifolia Flower Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Morinda Citrifolia Leaf Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Moringa Oleifera Seed Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Morus Alba Leaf Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Morus Alba Root Extract",
+    "functions": [
+      "Skin Brightening"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Myrciaria Dubia Fruit Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Myristic Acid",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [
+      "Comedogenic",
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Myristoyl Pentapeptide-17",
+    "functions": [
+      "Hair Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Myristyl Glucoside",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Nelumbo Nucifera Flower Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Nelumbo Nucifera Germ Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Nelumbo Nucifera Leaf Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Nelumbo Nucifera Root Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Nephrite Powder",
+    "functions": [
+      "Abrasive"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Niacinamide",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Nicotinoyl Dipeptide-22",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Nicotinoyl Dipeptide-23",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Nicotinoyl Dipeptide-24",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Nicotinoyl Tripeptide-1",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Nonapeptide-1",
+    "functions": [
+      "Skin Brightening"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Nymphaea Alba Flower Extract",
+    "functions": [
+      "Soothing"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "O-Cymen-5-Ol",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ocimum Sanctum Leaf Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Octapeptide-2",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Octyldodeceth-16",
+    "functions": [
+      "Emulsifier",
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Oenothera Biennis (Evening Primrose) Flower Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Olea Europaea (Olive) Fruit Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [
+      "Comedogenic"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Olea Europaea (Olive) Leaf Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Oleic Acid",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [
+      "Comedogenic"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Oligopeptide-1",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Oligopeptide-2",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Oligopeptide-3",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Oryza Sativa (Rice) Bran Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Oryza Sativa (Rice) Bran Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Oryza Sativa (Rice) Bran Water",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Oryza Sativa (Rice) Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Oryza Sativa (Rice) Seed Protein",
+    "functions": [
+      "Film Forming"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "PEG-100 Stearate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PEG-12 Dimethicone Crosspolymer",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PEG-150",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PEG-40 Hydrogenated Castor Oil",
+    "functions": [
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PEG-40 Stearate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PEG-400",
+    "functions": [
+      "Solvent",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PEG-60 Hydrogenated Castor Oil",
+    "functions": [
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PEG-8",
+    "functions": [
+      "Solvent",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PEG-80 Sorbitan Laurate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PEG-90M",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PEG/PPG-14/7 Dimethyl Ether",
+    "functions": [
+      "Solvent",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PEG/PPG-17/6 Copolymer",
+    "functions": [
+      "Solvent",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PPG-13-Decyltetradeceth-24",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "PPG-26-Buteth-26",
+    "functions": [
+      "Solvent",
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pachyrhizus Erosus Root Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Paeonia Lactiflora Root Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Paeonia Suffruticosa Root Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Palmitic Acid",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [
+      "Comedogenic"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Palmitoyl Grape Seed Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Palmitoyl Oligopeptide",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Palmitoyl Pentapeptide-4",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Palmitoyl Tetrapeptide-7",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Palmitoyl Tripeptide-1",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Palmitoyl Tripeptide-5",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Panax Ginseng Flower Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Panax Ginseng Leaf/Stem Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Panax Ginseng Root Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Panax Ginseng Root Water",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Panax Ginseng Seed Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Panthenol",
+    "functions": [
+      "Humectant",
+      "Soothing"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pantothenic Acid",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Papain",
+    "functions": [
+      "Enzymatic Exfoliant"
+    ],
+    "warnings": [
+      "Exfoliating",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Parfum",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen",
+      "Sensitizer"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pelargonium Graveolens Flower Oil",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pentaerythrityl Tetraethylhexanoate",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pentapeptide-13",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pentylene Glycol",
+    "functions": [
+      "Humectant",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Persea Gratissima (Avocado) Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [
+      "Comedogenic"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Phellinus Linteus Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Phenethyl Alcohol",
+    "functions": [
+      "Preservative",
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Phenoxyethanol",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Phenyl Trimethicone",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Phenylalanine",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Phenylethyl Resorcinol",
+    "functions": [
+      "Skin Brightening",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Phosphatidylcholine",
+    "functions": [
+      "Emulsifier",
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Phytic Acid",
+    "functions": [
+      "Chelating Agent",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Phytosphingosine",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Phytosterols",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Phytosteryl/Octyldodecyl Lauroyl Glutamate",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Pinus Densiflora Leaf Extract",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pinus Palustris Leaf Extract",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pinus Sylvestris Bud Extract",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pogostemon Cablin Oil",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyacrylamide",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyacrylate Crosspolymer-6",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Polyacrylate-13",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Polyglutamic Acid",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Polyglycerin-10",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyglycerin-3",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyglyceryl-10 Laurate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyglyceryl-10 Myristate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyglyceryl-10 Oleate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyglyceryl-10 Stearate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyglyceryl-3 Distearate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyglyceryl-3 Methylglucose Distearate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyglyceryl-4 Laurate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyglyceryl-4 Punicate",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyglyceryl-6 Distearate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyglyceryl-6 Laurate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polygonatum Odoratum Rhizome Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyisobutene",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polymethyl Methacrylate",
+    "functions": [
+      "Texture Enhancer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polyquaternium-10",
+    "functions": [
+      "Hair Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Polyquaternium-112",
+    "functions": [
+      "Hair Fixative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Polyquaternium-51",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Polyquaternium-67",
+    "functions": [
+      "Hair Fixative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Polyquaternium-7",
+    "functions": [
+      "Hair Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Polysorbate 20",
+    "functions": [
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polysorbate 60",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Polysorbate 80",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Portulaca Oleracea Extract",
+    "functions": [
+      "Soothing"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Potassium Benzoate",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Potassium Cetyl Phosphate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Potassium Chloride",
+    "functions": [
+      "Viscosity Control"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Potassium Cocoate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Potassium Cocoyl Glutamate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Potassium Cocoyl Glycinate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Potassium Hyaluronate",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Potassium Hydroxide",
+    "functions": [
+      "pH Adjuster"
+    ],
+    "warnings": [
+      "Irritant"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Potassium Lactate",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Potassium Phosphate",
+    "functions": [
+      "Buffering Agent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Potassium Sorbate",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Potentilla Anserina Extract",
+    "functions": [
+      "Soothing"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Proline",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Propanediol",
+    "functions": [
+      "Humectant",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Propylene Glycol",
+    "functions": [
+      "Humectant",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Protease",
+    "functions": [
+      "Enzymatic Exfoliant"
+    ],
+    "warnings": [
+      "Exfoliating",
+      "Irritant"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Prunus Mume Fruit Water",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Prunus Persica (Peach) Flower Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Prunus Persica (Peach) Fruit Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pueraria Lobata Root Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pullulan",
+    "functions": [
+      "Film Forming"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pvm/Ma Copolymer",
+    "functions": [
+      "Film Forming"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Pyridoxine",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pyridoxine Hcl",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Pyrus Communis (Pear) Fruit Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pyrus Malus (Apple) Fruit Water",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Pyrus Malus (Apple) Juice",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Quaternium-73",
+    "functions": [
+      "Antimicrobial"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Quillaja Saponaria Bark Extract",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Raphanus Sativus (Radish) Seed Extract",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Raspberry Ketone",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Rehmannia Glutinosa Root Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Retinal",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Irritant",
+      "Fotosensitizing"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Retinol",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Irritant",
+      "Fotosensitizing"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Retinyl Acetate",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [
+      "Irritant",
+      "Fotosensitizing"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Retinyl Palmitate",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Irritant",
+      "Fotosensitizing"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Riboflavin",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Rice Amino Acids",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Rosa Damascena Flower Water",
+    "functions": [
+      "Fragrance",
+      "Solvent"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Rosmarinus Officinalis (Rosemary) Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Rosmarinus Officinalis (Rosemary) Leaf Oil",
+    "functions": [
+      "Fragrance",
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Rubus Idaeus (Raspberry) Fruit Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Saccharide Hydrolysate",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Saccharide Isomerate",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Saccharomyces Ferment",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Saccharomyces Ferment Filtrate",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Saccharomyces/Rice Ferment Filtrate",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Saccharum Officinarum Extract",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Salicylic Acid",
+    "functions": [
+      "Exfoliant"
+    ],
+    "warnings": [
+      "Exfoliating",
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Salix Alba (Willow) Bark Extract",
+    "functions": [
+      "Exfoliant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Salix Alba (Willow) Bark Water",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Salix Nigra (Willow) Bark Extract",
+    "functions": [
+      "Exfoliant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Salvia Hispanica Seed Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Salvia Sclarea (Clary) Oil",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Saxifraga Sarmentosa Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sclareolide",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Scutellaria Alpina Flower/Leaf/Stem Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Scutellaria Baicalensis Root Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sea Water",
+    "functions": [
+      "Solvent"
+    ],
+    "warnings": [
+      "Drying"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sericin",
+    "functions": [
+      "Film Forming"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Serine",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Sh-Oligopeptide-1",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sh-Oligopeptide-2",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sh-Polypeptide-1",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sh-Polypeptide-22",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sh-Polypeptide-3",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Silica",
+    "functions": [
+      "Absorbent"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Silica Dimethyl Silylate",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Simmondsia Chinensis (Jojoba) Seed Oil",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sodium Acetate",
+    "functions": [
+      "Buffering Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Acetylated Hyaluronate",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Ascorbyl Phosphate",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Benzoate",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Benzotriazolyl Butylphenol Sulfonate",
+    "functions": [
+      "UV Filter"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Bisulfite",
+    "functions": [
+      "Antioxidant",
+      "Preservative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium C14-16 Olefin Sulfonate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [
+      "Irritant",
+      "Drying"
+    ],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Carboxymethyl Beta-Glucan",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Chloride",
+    "functions": [
+      "Viscosity Control"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sodium Citrate",
+    "functions": [
+      "Buffering Agent",
+      "Chelating Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Cocoamphoacetate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Sodium Cocoyl Alaninate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Cocoyl Glutamate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Cocoyl Glycinate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Cocoyl Isethionate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Diethylenetriamine Pentamethylene Phosphonate",
+    "functions": [
+      "Chelating Agent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Dna",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Gluceptate",
+    "functions": [
+      "Chelating Agent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Hyaluronate",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Hyaluronate Crosspolymer",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Hyaluronate Dimethylsilanol",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sodium Hydrolyzed Potato Starch Dodecenylsuccinate",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Hydroxide",
+    "functions": [
+      "pH Adjuster"
+    ],
+    "warnings": [
+      "Irritant"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sodium Lactate",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sodium Laureth Sulfate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [
+      "Irritant",
+      "Drying"
+    ],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Lauroyl Aspartate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Lauroyl Glutamate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Lauroyl Lactylate",
+    "functions": [
+      "Emulsifier",
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Lauroyl Sarcosinate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Metabisulfite",
+    "functions": [
+      "Antioxidant",
+      "Preservative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Metaphosphate",
+    "functions": [
+      "Chelating Agent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Methyl Cocoyl Taurate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Methyl Stearoyl Taurate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Nitrate",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Palmitoyl Proline",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Pca",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Phosphate",
+    "functions": [
+      "Buffering Agent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Phytate",
+    "functions": [
+      "Chelating Agent",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Polyacrylate",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Polyacryloyldimethyl Taurate",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Polyaspartate",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Polynaphthalenesulfonate",
+    "functions": [
+      "Dispersant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Stearoyl Glutamate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Sulfate",
+    "functions": [
+      "Viscosity Control"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Sodium Sulfite",
+    "functions": [
+      "Antioxidant",
+      "Preservative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Solanum Lycopersicum (Tomato) Fruit Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Solanum Melongena (Eggplant) Fruit Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sophora Angustifolia Root Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sophora Japonica Bud Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sorbic Acid",
+    "functions": [
+      "Preservative"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sorbitan Isostearate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sorbitan Olivate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sorbitol",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sphingomonas Ferment Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Squalane",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Steareth-2",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Steareth-21",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Steareth-30",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Stearic Acid",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [
+      "Comedogenic"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Stellaria Media (Chickweed) Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Stephania Tetrandra Root Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Streptococcus Thermophilus Ferment",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Styrene/Acrylates Copolymer",
+    "functions": [
+      "Film Forming"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Succinic Acid",
+    "functions": [
+      "pH Adjuster"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Sucrose Distearate",
+    "functions": [
+      "Emulsifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Synthetic Fluorphlogopite",
+    "functions": [
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tamarindus Indica Seed Polysaccharide",
+    "functions": [
+      "Film Forming"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tea-Cocoyl Glutamate",
+    "functions": [
+      "Cleansing Agent"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Terephthalylidene Dicamphor Sulfonic Acid",
+    "functions": [
+      "UV Filter"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tetradecene",
+    "functions": [
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tetrapeptide-44",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tetrasodium Edta",
+    "functions": [
+      "Chelating Agent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Theobroma Cacao (Cocoa) Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Theobroma Cacao (Cocoa) Seed Extract",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Thermus Thermophillus Ferment",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Thiamine Hcl",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Kationik"
+  },
+  {
+    "name": "Threonine",
+    "functions": [
+      "Humectant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Thymol Trimethoxycinnamate",
+    "functions": [
+      "UV Filter"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tin Oxide",
+    "functions": [
+      "Opacifying",
+      "Colorant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tocopherol",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tocopheryl Acetate",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tocotrienols",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tranexamic Acid",
+    "functions": [
+      "Skin Conditioning",
+      "Brightening"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tranexamoyl Dipeptide-22",
+    "functions": [
+      "Skin Conditioning",
+      "Brightening"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tranexamoyl Dipeptide-23",
+    "functions": [
+      "Skin Conditioning",
+      "Brightening"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Trehalose",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tremella Fuciformis (Mushroom) Extract",
+    "functions": [
+      "Humectant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tremella Fuciformis Sporocarp Extract",
+    "functions": [
+      "Humectant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tributyl Citrate",
+    "functions": [
+      "Solvent",
+      "Plasticizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tridecane",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Trideceth-9",
+    "functions": [
+      "Solubilizer"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Triethoxycaprylylsilane",
+    "functions": [
+      "Dispersing Agent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Triethylhexanoin",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "warnings": [
+      "Comedogenic"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tripeptide-1",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tripeptide-29",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tris(Tetramethylhydroxypiperidinol) Citrate",
+    "functions": [
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Trisiloxane",
+    "functions": [
+      "Solvent",
+      "Emollient"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Trisodium Ethylenediamine Disuccinate",
+    "functions": [
+      "Chelating Agent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Triticum Vulgare Sprout Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [
+      "Allergen"
+    ],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tromethamine",
+    "functions": [
+      "pH Adjuster"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tuber Magnatum Extract",
+    "functions": [
+      "Fragrance"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Tyrosine",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Ulmus Davidiana Root Extract",
+    "functions": [
+      "Soothing",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Ulva Lactuca Extract",
+    "functions": [
+      "Skin Conditioning",
+      "Antioxidant"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Undaria Pinnatifida Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Undecane",
+    "functions": [
+      "Emollient",
+      "Solvent"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Undecylenoyl Phenylalanine",
+    "functions": [
+      "Brightening",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Urea",
+    "functions": [
+      "Humectant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Valine",
+    "functions": [
+      "Humectant",
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Amfoterik"
+  },
+  {
+    "name": "Vigna Radiata Seed Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Vinegar",
+    "functions": [
+      "pH Adjuster"
+    ],
+    "warnings": [
+      "Irritant"
+    ],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer",
+    "functions": [
+      "Texture Enhancer",
+      "Film Forming"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Xanthan Gum",
+    "functions": [
+      "Rheology Modifier"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Anionik"
+  },
+  {
+    "name": "Xylitol",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Xylitylglucoside",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Xylose",
+    "functions": [
+      "Humectant"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Yeast Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Zea Mays (Corn) Kernel Extract",
+    "functions": [
+      "Skin Conditioning"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Zea Mays (Corn) Starch",
+    "functions": [
+      "Absorbent"
+    ],
+    "warnings": [],
+    "origin": "Natural",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Zinc Pca",
+    "functions": [
+      "Sebum Regulating",
+      "Antimicrobial"
+    ],
+    "warnings": [],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Zinc Pyrithione",
+    "functions": [
+      "Antimicrobial",
+      "Anti-Dandruff"
+    ],
+    "warnings": [
+      "Irritant",
+      "Drying"
+    ],
+    "origin": "Synthetic",
+    "charge": "Non-ionik"
+  },
+  {
+    "name": "Zinc Stearate",
+    "functions": [
+      "Texture Enhancer",
+      "Opacifying"
+    ],
+    "warnings": [],
+    "origin": "Natural Derivative",
+    "charge": "Non-ionik"
+  }
+]
