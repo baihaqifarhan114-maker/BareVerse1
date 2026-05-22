@@ -4,6 +4,8 @@ import AuthPage from './pages/AuthPage';
 import OnboardingPage from './pages/OnboardingPage';
 import DiagnosaChoicePage from './pages/DiagnosaChoicePage';
 import CameraDiagnosaPage from './pages/CameraDiagnosaPage';
+import FormDiagnosaPage from './pages/FormDiagnosaPage';
+import DiagnosaResultPage from './pages/DiagnosaResultPage';
 import ProductListingPage from './pages/ProductListingPage';
 
 export default function App() {
@@ -14,6 +16,8 @@ export default function App() {
       <Route path="/onboarding" element={<OnboardingPage />} />
       <Route path="/diagnosa" element={<DiagnosaChoicePage />} />
       <Route path="/diagnosa/camera" element={<CameraDiagnosaPage />} />
+      <Route path="/diagnosa/form" element={<FormDiagnosaPage />} />
+      <Route path="/diagnosa/result" element={<DiagnosaResultPage />} />
       <Route path="/products" element={<ProductListingPage />} />
       <Route path="*" element={<LandingPage />} />
     </Routes>
