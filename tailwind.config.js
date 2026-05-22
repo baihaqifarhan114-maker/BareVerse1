@@ -46,8 +46,15 @@ export default {
       borderRadius: { lg: 'var(--radius)', md: 'calc(var(--radius) - 2px)', sm: 'calc(var(--radius) - 4px)' },
       keyframes: {
         'fade-up': { '0%': { opacity: '0', transform: 'translateY(20px)' }, '100%': { opacity: '1', transform: 'translateY(0)' } },
+        'scanline': {
+          '0%': { top: '0%' },
+          '100%': { top: '100%' },
+        },
       },
-      animation: { 'fade-up': 'fade-up 0.6s ease-out' },
+      animation: {
+        'fade-up': 'fade-up 0.6s ease-out',
+        'scanline': 'scanline 1.6s ease-in-out infinite alternate',
+      },
     },
   },
   plugins: [require('tailwindcss-animate')],
