@@ -1,0 +1,4 @@
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+export default function LandingPage() {
+    return (_jsxs("main", { className: "min-h-screen flex flex-col items-center justify-center gap-6 bg-cream", children: [_jsx("h1", { className: "font-display text-5xl text-teal-deep", children: "Bareverse" }), _jsx("p", { className: "text-ink/70 font-sans", children: "Theme check: cream bg, teal heading, ink body." }), _jsxs("div", { className: "flex gap-2", children: [_jsx("span", { className: "px-4 py-2 rounded-lg bg-teal-bright text-cream", children: "teal-bright" }), _jsx("span", { className: "px-4 py-2 rounded-lg bg-pink-crimson text-cream", children: "pink-crimson" }), _jsx("span", { className: "px-4 py-2 rounded-lg bg-sage text-forest", children: "sage" }), _jsx("span", { className: "px-4 py-2 rounded-lg bg-pink-soft text-pink-crimson", children: "pink-soft" })] })] }));
+}
