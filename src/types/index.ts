@@ -54,3 +54,28 @@ export type Routine = {
   morning: RoutineStep[];
   evening: RoutineStep[];
 };
+
+export type ProductCategory = 'toner' | 'cleanser' | 'serum' | 'moisturizer' | 'sunscreen' | 'haircare' | 'hair-treatment' | 'skincare';
+
+export type Product = {
+  id: string;
+  name: string;
+  brand: string;
+  productType: 'skincare' | 'haircare';
+  category: ProductCategory;
+  size: string;
+  originalPrice: number;
+  discountedPrice: number | null;
+  discountPercent: number;
+  rating: number | null;
+  reviewCount: number;
+  ingredients: string[];
+  primaryIngredients: string[];
+  bpomId: string | null;
+  claims: string[];
+  description: string;
+  sourceUrl: string;
+  imageUrl: string;
+};
+
+export type PriceRange = 'under-50' | '50-150' | 'over-150' | 'all';

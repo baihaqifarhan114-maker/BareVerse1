@@ -6,7 +6,9 @@ import DiagnosaChoicePage from './pages/DiagnosaChoicePage';
 import CameraDiagnosaPage from './pages/CameraDiagnosaPage';
 import FormDiagnosaPage from './pages/FormDiagnosaPage';
 import DiagnosaResultPage from './pages/DiagnosaResultPage';
+import RoutineRecommendationPage from './pages/RoutineRecommendationPage';
 import ProductListingPage from './pages/ProductListingPage';
+import ProductDetailPage from './pages/ProductDetailPage';
 
 export default function App() {
   return (
@@ -18,7 +20,9 @@ export default function App() {
       <Route path="/diagnosa/camera" element={<CameraDiagnosaPage />} />
       <Route path="/diagnosa/form" element={<FormDiagnosaPage />} />
       <Route path="/diagnosa/result" element={<DiagnosaResultPage />} />
+      <Route path="/diagnosa/routine" element={<RoutineRecommendationPage />} />
       <Route path="/products" element={<ProductListingPage />} />
+      <Route path="/products/:id" element={<ProductDetailPage />} />
       <Route path="*" element={<LandingPage />} />
     </Routes>
   );

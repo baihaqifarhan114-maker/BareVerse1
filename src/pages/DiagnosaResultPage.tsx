@@ -93,16 +93,15 @@ function DiagnosaResultInner() {
 
             <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
               <Button asChild size="lg" className="flex-1">
-                <Link to="/products">Lihat Rekomendasi Produk <ArrowRight className="h-4 w-4" /></Link>
+                <Link to="/diagnosa/routine">Lihat Rutinitas <ArrowRight className="h-4 w-4" /></Link>
               </Button>
-              <Button asChild variant="outline" size="lg">
-                <Link to="/diagnosa"><RotateCw className="h-4 w-4" /> Ulangi Diagnosa</Link>
+              <Button asChild variant="outline" size="lg" className="flex-1">
+                <Link to="/products">Lihat Produk</Link>
+              </Button>
+              <Button asChild variant="ghost" size="lg">
+                <Link to="/diagnosa"><RotateCw className="h-4 w-4" /> Ulangi</Link>
               </Button>
             </div>
-
-            <p className="text-xs text-ink/50 text-center max-w-md mx-auto">
-              Rekomendasi rutinitas lengkap (pagi & malam) akan tersedia di Phase 3 — untuk sekarang lihat produk yang cocok dengan ingredient di atas.
-            </p>
           </div>
         </Container>
       </main>
