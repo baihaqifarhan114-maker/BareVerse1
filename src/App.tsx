@@ -9,6 +9,9 @@ import DiagnosaResultPage from './pages/DiagnosaResultPage';
 import RoutineRecommendationPage from './pages/RoutineRecommendationPage';
 import ProductListingPage from './pages/ProductListingPage';
 import ProductDetailPage from './pages/ProductDetailPage';
+import CartPage from './pages/CartPage';
+import CheckoutPage from './pages/CheckoutPage';
+import OrderConfirmationPage from './pages/OrderConfirmationPage';
 
 export default function App() {
   return (
@@ -23,6 +26,9 @@ export default function App() {
       <Route path="/diagnosa/routine" element={<RoutineRecommendationPage />} />
       <Route path="/products" element={<ProductListingPage />} />
       <Route path="/products/:id" element={<ProductDetailPage />} />
+      <Route path="/cart" element={<CartPage />} />
+      <Route path="/checkout" element={<CheckoutPage />} />
+      <Route path="/order/confirmation" element={<OrderConfirmationPage />} />
       <Route path="*" element={<LandingPage />} />
     </Routes>
   );

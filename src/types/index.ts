@@ -79,3 +79,45 @@ export type Product = {
 };
 
 export type PriceRange = 'under-50' | '50-150' | 'over-150' | 'all';
+
+export type CartItem = {
+  productId: string;
+  name: string;
+  brand: string;
+  imageUrl: string;
+  unitPrice: number;
+  quantity: number;
+};
+
+export type Address = {
+  fullName: string;
+  phone: string;
+  province: string;
+  city: string;
+  district: string;
+  postalCode: string;
+  detail: string;
+};
+
+export type ShippingCarrier = 'jnt' | 'jne' | 'sicepat';
+
+export type ShippingOption = {
+  carrier: ShippingCarrier;
+  name: string;
+  estimateDays: string;
+  price: number;
+};
+
+export type PaymentBank = 'bni' | 'bri';
+
+export type Order = {
+  id: string;
+  items: CartItem[];
+  address: Address;
+  shipping: ShippingOption;
+  payment: { bank: PaymentBank; virtualAccountNumber: string };
+  subtotal: number;
+  shippingCost: number;
+  total: number;
+  createdAt: number;
+};

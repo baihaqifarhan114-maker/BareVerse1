@@ -1,14 +1,15 @@
-import { useMemo } from 'react';
+import { useState, useMemo } from 'react';
 import { useParams, Link, Navigate } from 'react-router-dom';
 import { Navbar } from '@/components/layout/Navbar';
 import { Footer } from '@/components/layout/Footer';
 import { Container } from '@/components/layout/Container';
 import { Button } from '@/components/ui/button';
 import { useDiagnosaStore } from '@/store/diagnosaStore';
+import { useCartStore } from '@/store/cartStore';
 import productsData from '@/data/products.json';
 import type { Product } from '@/types';
 import { formatRupiah, cn } from '@/lib/utils';
-import { Star, ShoppingBag, ArrowLeft, BadgeCheck, Sparkles } from 'lucide-react';
+import { Star, ShoppingBag, ArrowLeft, BadgeCheck, Sparkles, Check } from 'lucide-react';
 
 const ALL_PRODUCTS = productsData as Product[];
 
@@ -16,11 +17,25 @@ export default function ProductDetailPage() {
   const { id } = useParams();
   const product = useMemo(() => ALL_PRODUCTS.find((p) => p.id === id), [id]);
   const diagnosaResult = useDiagnosaStore((s) => s.currentResult);
+  const addItem = useCartStore((s) => s.addItem);
+  const [added, setAdded] = useState(false);
 
   if (!product) return <Navigate to="/products" replace />;
 
   const price = product.discountedPrice ?? product.originalPrice;
   const matchedSet = new Set((diagnosaResult?.needed_ingredients ?? []).map((i) => i.toLowerCase()));
+
+  const handleAdd = () => {
+    addItem({
+      productId: product.id,
+      name: product.name,
+      brand: product.brand,
+      imageUrl: product.imageUrl,
+      unitPrice: price,
+    });
+    setAdded(true);
+    setTimeout(() => setAdded(false), 2000);
+  };
 
   return (
     <>
@@ -84,8 +99,8 @@ export default function ProductDetailPage() {
                 </div>
               )}
 
-              <Button size="lg" className="w-full">
-                <ShoppingBag className="h-4 w-4" /> Tambah ke Keranjang
+              <Button size="lg" className="w-full" onClick={handleAdd} disabled={added} variant={added ? 'sage' : 'default'}>
+                {added ? (<><Check className="h-4 w-4" /> Ditambahkan ke keranjang</>) : (<><ShoppingBag className="h-4 w-4" /> Tambah ke Keranjang</>)}
               </Button>
 
               {product.description && (
