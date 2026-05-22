@@ -1,6 +1,10 @@
 import { Navbar } from '@/components/layout/Navbar';
 import { Footer } from '@/components/layout/Footer';
 import { HeroScrollAnimation } from '@/components/landing/HeroScrollAnimation';
+import { BrandStory } from '@/components/landing/BrandStory';
+import { CategoriesSection } from '@/components/landing/CategoriesSection';
+import { FeaturedProducts } from '@/components/landing/FeaturedProducts';
+import { HowItWorks } from '@/components/landing/HowItWorks';
 
 export default function LandingPage() {
   return (
@@ -8,9 +12,10 @@ export default function LandingPage() {
       <Navbar />
       <main>
         <HeroScrollAnimation />
-        <section className="container-wide py-32 text-center">
-          <h2 className="font-display text-3xl text-teal-deep">More sections coming…</h2>
-        </section>
+        <BrandStory />
+        <CategoriesSection />
+        <FeaturedProducts />
+        <HowItWorks />
       </main>
       <Footer />
     </>
