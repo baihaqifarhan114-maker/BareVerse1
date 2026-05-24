@@ -10,6 +10,9 @@ import productsData from '@/data/products.json';
 import type { Product } from '@/types';
 import { formatRupiah, cn } from '@/lib/utils';
 import { Star, ShoppingBag, ArrowLeft, BadgeCheck, Sparkles, Check } from 'lucide-react';
+import { getEffectiveIngredients } from '@/lib/productIngredients';
+import { diagnosaProductType } from '@/lib/diagnosaDisplay';
+import { ProductReviews } from '@/components/product/ProductReviews';
 
 const ALL_PRODUCTS = productsData as Product[];
 
@@ -23,7 +26,10 @@ export default function ProductDetailPage() {
   if (!product) return <Navigate to="/products" replace />;
 
   const price = product.discountedPrice ?? product.originalPrice;
+  const effectiveIngs = getEffectiveIngredients(product);
   const matchedSet = new Set((diagnosaResult?.needed_ingredients ?? []).map((i) => i.toLowerCase()));
+  const diagnosaMismatch =
+    !!diagnosaResult && product.productType !== diagnosaProductType(diagnosaResult.type);
 
   const handleAdd = () => {
     addItem({
@@ -88,14 +94,28 @@ export default function ProductDetailPage() {
               </div>
 
               {diagnosaResult && (
-                <div className="p-4 rounded-2xl bg-teal-50/60 border border-teal-bright/20">
+                <div
+                  className={cn(
+                    'p-4 rounded-2xl border',
+                    diagnosaMismatch
+                      ? 'bg-pink-soft/20 border-pink-soft/50'
+                      : 'bg-teal-50/60 border-teal-bright/20'
+                  )}
+                >
                   <div className="flex items-center gap-2 mb-1">
                     <Sparkles className="h-4 w-4 text-teal-bright" />
-                    <p className="text-sm font-medium text-teal-deep">Cocok untuk diagnosamu</p>
+                    <p className="text-sm font-medium text-teal-deep">
+                      {diagnosaMismatch
+                        ? `Produk ${product.productType} — diagnosa kamu untuk ${diagnosaResult.type === 'hair' ? 'rambut' : 'kulit'}`
+                        : 'Cocok untuk diagnosamu'}
+                    </p>
                   </div>
-                  <p className="text-xs text-ink/60">
-                    {product.ingredients.filter((i) => matchedSet.has(i.toLowerCase())).length} dari {diagnosaResult.needed_ingredients.length} ingredient rekomendasi ada di produk ini.
-                  </p>
+                  {!diagnosaMismatch && (
+                    <p className="text-xs text-ink/60">
+                      {effectiveIngs.filter((i) => matchedSet.has(i.toLowerCase())).length} dari{' '}
+                      {diagnosaResult.needed_ingredients.length} kandungan rekomendasi ada di produk ini.
+                    </p>
+                  )}
                 </div>
               )}
 
@@ -123,12 +143,16 @@ export default function ProductDetailPage() {
             </div>
           </div>
 
-          {product.ingredients.length > 0 && (
+          {effectiveIngs.length > 0 && (
             <div className="mt-12 p-8 rounded-3xl bg-white border border-border">
-              <h2 className="font-display text-2xl text-teal-deep mb-2">Ingredients</h2>
-              <p className="text-sm text-ink/60 mb-6">Ingredient yang highlight = match dengan diagnosamu.</p>
+              <h2 className="font-display text-2xl text-teal-deep mb-2">Kandungan</h2>
+              <p className="text-sm text-ink/60 mb-6">
+                {product.ingredients.length === 0 && product.productType === 'haircare'
+                  ? 'Kandungan haircare (demo) — yang highlight = match diagnosa.'
+                  : 'Kandungan yang highlight = match dengan diagnosamu.'}
+              </p>
               <div className="flex flex-wrap gap-2">
-                {product.ingredients.map((ing) => {
+                {effectiveIngs.map((ing) => {
                   const matched = matchedSet.has(ing.toLowerCase());
                   return (
                     <span key={ing}
@@ -141,6 +165,8 @@ export default function ProductDetailPage() {
               </div>
             </div>
           )}
+
+          <ProductReviews product={product} />
         </Container>
       </main>
       <Footer />

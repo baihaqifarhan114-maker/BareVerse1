@@ -117,33 +117,45 @@ const SKIN_ROUTINE_TEMPLATE: { morning: Array<{ name: string; cat: string }>; ev
   ],
 };
 
-const HAIR_ROUTINE_TEMPLATE: { morning: Array<{ name: string; cat: string }>; evening: Array<{ name: string; cat: string }> } = {
+const HAIR_ROUTINE_TEMPLATE: {
+  morning: Array<{ name: string; cat: string; ingOffset: number }>;
+  evening: Array<{ name: string; cat: string; ingOffset: number }>;
+} = {
   morning: [
-    { name: 'Leave-in Conditioner', cat: 'haircare' },
-    { name: 'Hair Serum', cat: 'haircare' },
+    { name: 'Leave-in / Hair Serum', cat: 'haircare', ingOffset: 2 },
+    { name: 'Scalp Treatment (opsional)', cat: 'haircare', ingOffset: 4 },
   ],
   evening: [
-    { name: 'Shampoo', cat: 'haircare' },
-    { name: 'Conditioner', cat: 'haircare' },
-    { name: 'Weekly Hair Mask', cat: 'hair-treatment' },
+    { name: 'Shampoo (fokus scalp)', cat: 'haircare', ingOffset: 0 },
+    { name: 'Conditioner (ujung rambut)', cat: 'haircare', ingOffset: 1 },
+    { name: 'Hair Mask (1–2x/minggu)', cat: 'hair-treatment', ingOffset: 3 },
   ],
 };
+
+function pickIngredients(all: string[], offset: number, count = 3): string[] {
+  if (!all.length) return [];
+  const out: string[] = [];
+  for (let i = 0; i < count; i += 1) {
+    out.push(all[(offset + i) % all.length]);
+  }
+  return [...new Set(out)];
+}
 
 export function generateRoutine(result: DiagnosaResult): Routine {
   const template = result.type === 'skin' ? SKIN_ROUTINE_TEMPLATE : HAIR_ROUTINE_TEMPLATE;
   const ings = result.needed_ingredients;
+  const mapSteps = (
+    steps: Array<{ name: string; cat: string; ingOffset?: number }>
+  ) =>
+    steps.map((s, i) => ({
+      step: i + 1,
+      name: s.name,
+      recommendedIngredients: pickIngredients(ings, s.ingOffset ?? i * 2),
+      productCategoryFilter: s.cat,
+    }));
+
   return {
-    morning: template.morning.map((s, i) => ({
-      step: i + 1,
-      name: s.name,
-      recommendedIngredients: ings.slice(0, 3),
-      productCategoryFilter: s.cat,
-    })),
-    evening: template.evening.map((s, i) => ({
-      step: i + 1,
-      name: s.name,
-      recommendedIngredients: ings.slice(0, 3),
-      productCategoryFilter: s.cat,
-    })),
+    morning: mapSteps(template.morning),
+    evening: mapSteps(template.evening),
   };
 }

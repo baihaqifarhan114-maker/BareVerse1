@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { Star } from 'lucide-react';
 import { formatRupiah } from '@/lib/utils';
+import { getEffectiveIngredients } from '@/lib/productIngredients';
 import type { Product } from '@/types';
 
 type Props = {
@@ -9,8 +10,9 @@ type Props = {
 };
 
 export function ProductCard({ product, matchedIngredients }: Props) {
+  const effectiveIngs = getEffectiveIngredients(product);
   const matchCount = matchedIngredients
-    ? product.ingredients.filter((i) => matchedIngredients.some((m) => m.toLowerCase() === i.toLowerCase())).length
+    ? effectiveIngs.filter((i) => matchedIngredients.some((m) => m.toLowerCase() === i.toLowerCase())).length
     : 0;
   const price = product.discountedPrice ?? product.originalPrice;
 

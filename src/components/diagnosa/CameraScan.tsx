@@ -5,18 +5,27 @@ import { Link } from 'react-router-dom';
 
 type Props = {
   onScanComplete: () => void;
+  mode?: 'skin' | 'hair';
 };
 
 type Phase = 'idle' | 'requesting' | 'ready' | 'denied' | 'scanning' | 'analyzing';
 
-const SCAN_MESSAGES = [
+const SKIN_SCAN_MESSAGES = [
   'Menganalisis tekstur kulit...',
   'Mendeteksi pola jerawat & komedo...',
   'Mengukur tingkat hidrasi...',
-  'Menghitung rekomendasi rutinitas...',
+  'Menghitung rekomendasi skincare...',
 ];
 
-export function CameraScan({ onScanComplete }: Props) {
+const HAIR_SCAN_MESSAGES = [
+  'Menganalisis kondisi scalp...',
+  'Mengevaluasi kelembapan ujung rambut...',
+  'Mendeteksi pola rontok & ketombe...',
+  'Menyusun rutinitas haircare...',
+];
+
+export function CameraScan({ onScanComplete, mode = 'skin' }: Props) {
+  const SCAN_MESSAGES = mode === 'hair' ? HAIR_SCAN_MESSAGES : SKIN_SCAN_MESSAGES;
   const videoRef = useRef<HTMLVideoElement>(null);
   const streamRef = useRef<MediaStream | null>(null);
   const [phase, setPhase] = useState<Phase>('idle');
@@ -113,7 +122,11 @@ export function CameraScan({ onScanComplete }: Props) {
         {phase === 'idle' && (
           <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-6 bg-teal-deep/5">
             <ScanFace className="h-12 w-12 text-teal-deep/40 mb-4" />
-            <p className="text-ink/60 text-sm">Klik tombol di bawah untuk mengaktifkan kamera.</p>
+            <p className="text-ink/60 text-sm">
+              {mode === 'hair'
+                ? 'Arahkan kamera ke bagian rambut & scalp yang ingin dianalisis.'
+                : 'Klik tombol di bawah untuk mengaktifkan kamera.'}
+            </p>
           </div>
         )}
 

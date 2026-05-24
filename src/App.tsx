@@ -12,6 +12,8 @@ import ProductDetailPage from './pages/ProductDetailPage';
 import CartPage from './pages/CartPage';
 import CheckoutPage from './pages/CheckoutPage';
 import OrderConfirmationPage from './pages/OrderConfirmationPage';
+import AdminLoginPage from './pages/admin/AdminLoginPage';
+import AdminReviewsPage from './pages/admin/AdminReviewsPage';
 
 export default function App() {
   return (
@@ -29,6 +31,8 @@ export default function App() {
       <Route path="/cart" element={<CartPage />} />
       <Route path="/checkout" element={<CheckoutPage />} />
       <Route path="/order/confirmation" element={<OrderConfirmationPage />} />
+      <Route path="/admin" element={<AdminLoginPage />} />
+      <Route path="/admin/reviews" element={<AdminReviewsPage />} />
       <Route path="*" element={<LandingPage />} />
     </Routes>
   );

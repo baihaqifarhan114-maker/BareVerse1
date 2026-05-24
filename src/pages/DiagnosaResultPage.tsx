@@ -7,6 +7,7 @@ import { AuthGuard } from '@/components/AuthGuard';
 import { useDiagnosaStore } from '@/store/diagnosaStore';
 import { useUserStore } from '@/store/userStore';
 import { Check, X, Sparkles, ArrowRight, RotateCw } from 'lucide-react';
+import { conditionLabel, productsUrlForDiagnosa } from '@/lib/diagnosaDisplay';
 
 function DiagnosaResultInner() {
   const result = useDiagnosaStore((s) => s.currentResult);
@@ -38,7 +39,8 @@ function DiagnosaResultInner() {
               <h2 className="font-display text-3xl md:text-4xl text-teal-deep leading-tight mb-2">
                 {result.classification}
               </h2>
-              <p className="text-sm text-ink/50 italic mb-6">{result.skin_type}</p>
+              <p className="text-sm text-ink/50 italic mb-1">{conditionLabel(result)}</p>
+              <p className="text-sm font-medium text-teal-deep/80 mb-6">{result.skin_type}</p>
               <p className="text-ink/80 leading-relaxed">{result.explanation}</p>
             </div>
 
@@ -77,8 +79,14 @@ function DiagnosaResultInner() {
             </div>
 
             <div className="p-8 rounded-3xl bg-teal-deep text-cream">
-              <p className="text-xs tracking-[0.3em] uppercase text-pink-soft font-medium mb-3">Kandungan yang Dibutuhkan</p>
-              <h3 className="font-display text-2xl mb-5">Cari produk dengan ingredient ini:</h3>
+              <p className="text-xs tracking-[0.3em] uppercase text-pink-soft font-medium mb-3">
+                {result.type === 'hair' ? 'Kandungan haircare yang dibutuhkan' : 'Kandungan skincare yang dibutuhkan'}
+              </p>
+              <h3 className="font-display text-2xl mb-5">
+                {result.type === 'hair'
+                  ? 'Cari produk rambut dengan kandungan ini:'
+                  : 'Cari produk kulit dengan kandungan ini:'}
+              </h3>
               <div className="flex flex-wrap gap-2">
                 {result.needed_ingredients.map((ing) => (
                   <span
@@ -96,7 +104,7 @@ function DiagnosaResultInner() {
                 <Link to="/diagnosa/routine">Lihat Rutinitas <ArrowRight className="h-4 w-4" /></Link>
               </Button>
               <Button asChild variant="outline" size="lg" className="flex-1">
-                <Link to="/products">Lihat Produk</Link>
+                <Link to={productsUrlForDiagnosa(result)}>Lihat Produk</Link>
               </Button>
               <Button asChild variant="ghost" size="lg">
                 <Link to="/diagnosa"><RotateCw className="h-4 w-4" /> Ulangi</Link>

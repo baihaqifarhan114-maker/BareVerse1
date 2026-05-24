@@ -1,8 +1,15 @@
 import type { Product, DiagnosaResult } from '@/types';
+import { getEffectiveIngredients } from './productIngredients';
+
+export function productsForDiagnosa(products: Product[], result: DiagnosaResult | null): Product[] {
+  if (!result) return products;
+  const type = result.type === 'hair' ? 'haircare' : 'skincare';
+  return products.filter((p) => p.productType === type);
+}
 
 export function ingredientMatchScore(product: Product, neededIngredients: string[]): number {
   if (!neededIngredients.length) return 0;
-  const set = new Set(product.ingredients.map((i) => i.toLowerCase()));
+  const set = new Set(getEffectiveIngredients(product).map((i) => i.toLowerCase()));
   let hits = 0;
   for (const needed of neededIngredients) {
     if (set.has(needed.toLowerCase())) hits += 1;
@@ -11,7 +18,8 @@ export function ingredientMatchScore(product: Product, neededIngredients: string
 }
 
 export function rankByDiagnosa(products: Product[], result: DiagnosaResult): Product[] {
-  return [...products]
+  const scoped = productsForDiagnosa(products, result);
+  return [...scoped]
     .map((p) => ({ p, score: ingredientMatchScore(p, result.needed_ingredients) }))
     .sort((a, b) => {
       if (b.score !== a.score) return b.score - a.score;
@@ -44,7 +52,7 @@ export function filterProducts(
     const price = p.discountedPrice ?? p.originalPrice;
     if (opts.priceRange && !inPriceRange(price, opts.priceRange)) return false;
     if (opts.ingredientFilter && opts.ingredientFilter.length) {
-      const set = new Set(p.ingredients.map((i) => i.toLowerCase()));
+      const set = new Set(getEffectiveIngredients(p).map((i) => i.toLowerCase()));
       const hasAny = opts.ingredientFilter.some((i) => set.has(i.toLowerCase()));
       if (!hasAny) return false;
     }

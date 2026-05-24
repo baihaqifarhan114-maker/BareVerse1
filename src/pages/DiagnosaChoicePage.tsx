@@ -8,6 +8,9 @@ import { useUserStore } from '@/store/userStore';
 
 function DiagnosaChoiceInner() {
   const onboarding = useUserStore((s) => s.onboarding);
+  const isHair = onboarding?.scope === 'hair';
+  const isSkin = onboarding?.scope === 'skin' || onboarding?.scope === 'both';
+
   return (
     <>
       <Navbar />
@@ -33,7 +36,11 @@ function DiagnosaChoiceInner() {
               </div>
               <h3 className="font-display text-3xl text-teal-deep mb-3">Virtual Camera</h3>
               <p className="text-ink/70 leading-relaxed mb-6">
-                Buka kamera depan, foto wajah, biarkan AI menganalisis kondisi kulit dalam beberapa detik.
+                {isHair && !isSkin
+                  ? 'Gunakan kamera untuk menganalisis scalp & rambut — hasil rutinitas haircare dalam beberapa detik.'
+                  : isHair
+                    ? 'Scan wajah untuk kulit, atau arahkan ke rambut/scalp lewat form jika fokus haircare.'
+                    : 'Buka kamera depan, foto wajah, biarkan AI menganalisis kondisi kulit dalam beberapa detik.'}
               </p>
               <span className="inline-flex items-center gap-1 text-sm font-medium text-teal-bright">
                 Mulai scan <ArrowUpRight className="h-4 w-4 transition-transform group-hover:translate-x-1 group-hover:-translate-y-1" />

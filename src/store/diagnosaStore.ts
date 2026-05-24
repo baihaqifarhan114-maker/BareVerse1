@@ -20,6 +20,7 @@ export const useDiagnosaStore = create<DiagnosaState>()(
       setResult: (result) =>
         set({
           currentResult: result,
+          currentRoutine: null,
           history: [result, ...get().history].slice(0, 10),
         }),
       setRoutine: (routine) => set({ currentRoutine: routine }),

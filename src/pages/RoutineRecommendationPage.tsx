@@ -10,8 +10,11 @@ import { generateRoutine } from '@/lib/mockAi';
 import { Sun, Moon, ArrowRight, Sparkles } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import type { RoutineStep } from '@/types';
+import { productsUrlForDiagnosa, productsUrlForType } from '@/lib/diagnosaDisplay';
 
-function StepCard({ step }: { step: RoutineStep }) {
+function StepCard({ step, resultType }: { step: RoutineStep; resultType: 'skin' | 'hair' }) {
+  const productLink = productsUrlForType(resultType, step.productCategoryFilter);
+
   return (
     <div className="relative p-6 rounded-2xl bg-white border border-border hover:border-teal-bright/40 transition-colors">
       <div className="flex items-start gap-4">
@@ -28,7 +31,7 @@ function StepCard({ step }: { step: RoutineStep }) {
             ))}
           </div>
           <Link
-            to={`/products?category=${step.productCategoryFilter}`}
+            to={productLink}
             className="inline-flex items-center gap-1 text-sm font-medium text-teal-bright hover:text-teal-deep"
           >
             Lihat produk yang cocok <ArrowRight className="h-3.5 w-3.5" />
@@ -70,7 +73,9 @@ function RoutineInner() {
                 Rutinitas untuk <span className="italic">{result.classification}</span>
               </h1>
               <p className="mt-4 text-ink/70 max-w-xl mx-auto">
-                Ikuti urutan ini setiap hari. Tiap langkah punya ingredient utama yang cocok dengan kondisimu.
+                {result.type === 'hair'
+                  ? 'Rutinitas keramas & perawatan harian. Tiap langkah menarget scalp atau batang rambut dengan kandungan yang tepat.'
+                  : 'Ikuti urutan ini setiap hari. Tiap langkah punya ingredient utama yang cocok dengan kondisimu.'}
               </p>
             </header>
 
@@ -83,7 +88,7 @@ function RoutineInner() {
                     tab === 'morning' ? 'bg-white text-teal-deep shadow-sm' : 'text-ink/60 hover:text-teal-deep'
                   )}
                 >
-                  <Sun className="h-4 w-4" /> Pagi
+                  <Sun className="h-4 w-4" /> {result.type === 'hair' ? 'Harian' : 'Pagi'}
                 </button>
                 <button
                   onClick={() => setTab('evening')}
@@ -92,13 +97,15 @@ function RoutineInner() {
                     tab === 'evening' ? 'bg-white text-teal-deep shadow-sm' : 'text-ink/60 hover:text-teal-deep'
                   )}
                 >
-                  <Moon className="h-4 w-4" /> Malam
+                  <Moon className="h-4 w-4" /> {result.type === 'hair' ? 'Keramas' : 'Malam'}
                 </button>
               </div>
             </div>
 
             <div className="space-y-4">
-              {steps.map((step) => <StepCard key={`${tab}-${step.step}`} step={step} />)}
+              {steps.map((step) => (
+                <StepCard key={`${tab}-${step.step}`} step={step} resultType={result.type} />
+              ))}
             </div>
 
             <div className="p-8 rounded-3xl bg-teal-deep text-cream text-center">
@@ -108,7 +115,7 @@ function RoutineInner() {
                 Filter sudah otomatis disetel berdasarkan diagnosamu — ingredient match akan muncul di tiap produk.
               </p>
               <Button asChild variant="crimson" size="lg">
-                <Link to="/products">Lihat Semua Rekomendasi <ArrowRight className="h-4 w-4" /></Link>
+                <Link to={productsUrlForDiagnosa(result)}>Lihat Semua Rekomendasi <ArrowRight className="h-4 w-4" /></Link>
               </Button>
             </div>
           </div>

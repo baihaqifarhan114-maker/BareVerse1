@@ -14,9 +14,10 @@ function CameraDiagnosaInner() {
   const navigate = useNavigate();
   const onboarding = useUserStore((s) => s.onboarding)!;
   const setResult = useDiagnosaStore((s) => s.setResult);
+  const isHair = onboarding.scope === 'hair';
 
   const handleComplete = () => {
-    const type: DiagnosaType = onboarding.scope === 'hair' ? 'hair' : 'skin';
+    const type: DiagnosaType = isHair ? 'hair' : 'skin';
     const result = runCameraDiagnosa(onboarding, type);
     setResult(result);
     navigate('/diagnosa/result');
@@ -34,14 +35,16 @@ function CameraDiagnosaInner() {
           <div className="max-w-2xl mx-auto text-center mb-10">
             <p className="text-xs tracking-[0.3em] uppercase text-pink-crimson font-medium mb-3">Virtual Camera</p>
             <h1 className="font-display text-4xl text-teal-deep leading-tight">
-              Posisikan wajahmu di dalam bingkai.
+              {isHair ? 'Fokuskan rambut & scalp di bingkai.' : 'Posisikan wajahmu di dalam bingkai.'}
             </h1>
             <p className="mt-3 text-ink/70">
-              Pastikan pencahayaan cukup, lepas kacamata jika ada, dan tatap langsung ke kamera.
+              {isHair
+                ? 'Pastikan pencahayaan cukup. Tunjukkan bagian scalp atau ujung rambut sesuai keluhanmu.'
+                : 'Pastikan pencahayaan cukup, lepas kacamata jika ada, dan tatap langsung ke kamera.'}
             </p>
           </div>
 
-          <CameraScan onScanComplete={handleComplete} />
+          <CameraScan onScanComplete={handleComplete} mode={isHair ? 'hair' : 'skin'} />
         </Container>
       </main>
       <Footer />

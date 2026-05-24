@@ -6,7 +6,8 @@ import { Container } from '@/components/layout/Container';
 import { Button } from '@/components/ui/button';
 import { ProductCard } from '@/components/product/ProductCard';
 import { useDiagnosaStore } from '@/store/diagnosaStore';
-import { filterProducts, rankByDiagnosa } from '@/lib/recommendations';
+import { filterProducts, rankByDiagnosa, productsForDiagnosa } from '@/lib/recommendations';
+import { diagnosaProductType } from '@/lib/diagnosaDisplay';
 import productsData from '@/data/products.json';
 import type { Product, PriceRange, ProductCategory } from '@/types';
 import { Sparkles, X } from 'lucide-react';
@@ -41,16 +42,19 @@ export default function ProductListingPage() {
   const [ingredientFilterOn, setIngredientFilterOn] = useState(true);
 
   const ingredientFilter = ingredientFilterOn && diagnosaResult ? diagnosaResult.needed_ingredients : [];
+  const defaultType = diagnosaResult ? diagnosaProductType(diagnosaResult.type) : null;
+  const effectiveType = urlType ?? defaultType;
 
   const filtered = useMemo(() => {
-    const list = filterProducts(ALL_PRODUCTS, {
-      productType: urlType ?? null,
+    const base = diagnosaResult ? productsForDiagnosa(ALL_PRODUCTS, diagnosaResult) : ALL_PRODUCTS;
+    const list = filterProducts(base, {
+      productType: effectiveType ?? null,
       category: urlCategory ?? null,
       priceRange,
       ingredientFilter,
     });
     return diagnosaResult ? rankByDiagnosa(list, diagnosaResult) : list;
-  }, [urlType, urlCategory, priceRange, ingredientFilter, diagnosaResult]);
+  }, [effectiveType, urlCategory, priceRange, ingredientFilter, diagnosaResult]);
 
   const setCategoryFilter = (cat: ProductCategory | null) => {
     const params = new URLSearchParams(searchParams);
@@ -86,8 +90,13 @@ export default function ProductListingPage() {
             <div className="mb-8 p-5 rounded-2xl bg-teal-50/60 border border-teal-bright/20 flex items-center gap-4 flex-wrap">
               <Sparkles className="h-5 w-5 text-teal-bright shrink-0" />
               <div className="flex-grow min-w-[200px]">
-                <p className="text-sm font-medium text-teal-deep">Difilter berdasarkan diagnosamu: {diagnosaResult.classification}</p>
-                <p className="text-xs text-ink/60 mt-0.5">Match ingredient: {diagnosaResult.needed_ingredients.slice(0, 3).join(', ')}…</p>
+                <p className="text-sm font-medium text-teal-deep">
+                  Diagnosa {diagnosaResult.type === 'hair' ? 'rambut' : 'kulit'}: {diagnosaResult.classification}
+                </p>
+                <p className="text-xs text-ink/60 mt-0.5">
+                  Katalog {effectiveType === 'haircare' ? 'haircare' : 'skincare'} · match:{' '}
+                  {diagnosaResult.needed_ingredients.slice(0, 3).join(', ')}…
+                </p>
               </div>
               <Button onClick={() => setIngredientFilterOn(!ingredientFilterOn)} variant={ingredientFilterOn ? 'default' : 'outline'} size="sm">
                 {ingredientFilterOn ? 'Filter ingredient: AKTIF' : 'Aktifkan filter ingredient'}
@@ -103,7 +112,7 @@ export default function ProductListingPage() {
                   {[{ v: null, l: 'Semua' }, { v: 'skincare' as const, l: 'Skincare' }, { v: 'haircare' as const, l: 'Haircare' }].map((opt) => (
                     <button key={opt.l} onClick={() => setTypeFilter(opt.v)}
                       className={cn('block w-full text-left px-3 py-1.5 rounded-lg text-sm transition-colors',
-                        urlType === opt.v ? 'bg-teal-deep text-cream font-medium' : 'text-ink/70 hover:bg-teal-50')}>
+                        effectiveType === opt.v ? 'bg-teal-deep text-cream font-medium' : 'text-ink/70 hover:bg-teal-50')}>
                       {opt.l}
                     </button>
                   ))}
@@ -141,7 +150,7 @@ export default function ProductListingPage() {
                 </div>
               </div>
 
-              {(urlType || urlCategory || priceRange !== 'all') && (
+              {(effectiveType || urlCategory || priceRange !== 'all') && (
                 <Button variant="ghost" size="sm" onClick={clearAll} className="text-pink-crimson">
                   <X className="h-3.5 w-3.5" /> Reset filter
                 </Button>

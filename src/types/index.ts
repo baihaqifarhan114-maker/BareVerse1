@@ -110,6 +110,16 @@ export type ShippingOption = {
 
 export type PaymentBank = 'bni' | 'bri';
 
+export type ProductReview = {
+  id: string;
+  productId: string;
+  productName: string;
+  authorName: string;
+  rating: number;
+  text: string;
+  createdAt: number;
+};
+
 export type Order = {
   id: string;
   items: CartItem[];
